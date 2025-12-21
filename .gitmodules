@@ -1,0 +1,3 @@
+[submodule "service-pagamento"]
+	path = service-pagamento
+	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-pagamentos.git
