@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-server.git
+[submodule "service-pedidos"]
+	path = service-pedidos
+	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-pedidos.git
