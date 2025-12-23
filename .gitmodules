@@ -7,3 +7,6 @@
 [submodule "service-pedidos"]
 	path = service-pedidos
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-pedidos.git
+[submodule "service-gateway"]
+	path = service-gateway
+	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-gateway.git
