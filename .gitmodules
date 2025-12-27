@@ -10,3 +10,6 @@
 [submodule "service-gateway"]
 	path = service-gateway
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-gateway.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/Rafael01Gx/java-spring-cloud-cdk-aws-infra.git
