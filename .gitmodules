@@ -1,14 +1,14 @@
 [submodule "service-pagamento"]
-	path = service-pagamento
+	path = pagamentos-ms
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-pagamentos.git
 [submodule "server"]
 	path = server
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-server.git
 [submodule "service-pedidos"]
-	path = service-pedidos
+	path = pedidos-ms
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-pedidos.git
 [submodule "service-gateway"]
-	path = service-gateway
+	path = gateway
 	url = https://github.com/Rafael01Gx/java-spring-cloud-microservices-gateway.git
 [submodule "infra"]
 	path = infra
